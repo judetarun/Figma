@@ -72,6 +72,59 @@ Figma
   <div class="text-0-1-5">REGISTER NOW!!!!!</div>
 </div>
 ```
+css
+```
+.container--0- {
+  position: absolute;
+  left: 646px;
+  top: -25px;
+  width: 430px;
+  height: 932px;
+  background-color: #fcffed;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-2 {
+  width: 420px;
+  height: 120px;
+  color: #5d0101;
+  font-size: 48px;
+  font-family: Lugrasimo, "Regular";
+  font-weight: 400;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-3 {
+  width: 364px;
+  height: 518px;
+  color: #000000;
+  font-size: 64px;
+  font-family: Nanum Pen, "Regular";
+  font-weight: 400;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-4 {
+  width: 289px;
+  height: 52px;
+  color: #ffffff;
+  font-size: 40px;
+  font-family: Marko One, "Regular";
+  font-weight: 400;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-5 {
+  width: 386px;
+  height: 54px;
+  color: #451616;
+  font-size: 40px;
+  font-family: Marko One, "Regular";
+  font-weight: 400;
+  text-align: center;
+  vertical-align: top;
+}
+```
 # OUTPUT:
 ![Screenshot 2025-05-09 220353](https://github.com/user-attachments/assets/5066d544-bd94-4654-b913-3733ffa598f0)
 ![Screenshot 2025-05-09 220406](https://github.com/user-attachments/assets/5468aafb-6f93-4a7f-84a0-5f8a320c484f)
